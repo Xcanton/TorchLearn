@@ -39,8 +39,8 @@ def forward(self, x):
 
 # Design your own layer
 
-  &ensp;&ensp;&ensp;&ensp;If we look down into original layers in torch APIs, they can be devided into 2 parts, higher-level APIs (<b>_torch.nn.*_</b>) and lower-level APIs (<b>_torch.nn.functional.*_</b>) . The former one uses class inherited from torch.nn.Module, while the latter one, which mainly focus on compute, uses Functional Programming form. This difference leads to difference in parameters and their information storage strategy. If cross-language or cross-platform compilation can be ignored, higher-level API form is preferred. 
-  &ensp;&ensp;&ensp;&ensp;To design your own layer, the above steps are essential, but class variables definition and storage is also necessary. A [Linear Layer Demo]() shows a light example. 
+  &ensp;&ensp;&ensp;&ensp;If we look down into original layers in torch APIs, they can be devided into 2 parts, higher-level APIs (<b>_torch.nn.*_</b>) and lower-level APIs (<b>_torch.nn.functional.*_</b>) . The former one uses class inherited from torch.nn.Module, while the latter one, which mainly focus on compute, uses Functional Programming form. This difference leads to difference in parameters and their information storage strategy. If cross-language or cross-platform compilation can be ignored, higher-level API form is preferred. </br>
+  &ensp;&ensp;&ensp;&ensp;To design your own layer, the above steps are essential, but class variables definition and storage is also necessary. A [Linear Layer Demo](https://github.com/Xcanton/TorchLearn/blob/master/nn/Module/MyLinearLayer.py) shows a light example. 
 
 <b>Class variables definition and storage</b>
   ```
