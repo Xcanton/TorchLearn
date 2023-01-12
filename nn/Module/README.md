@@ -57,4 +57,5 @@ def __init__(self, in_features, out_features, bias=True):
 
 # Reference
 [1] [https://pytorch.org/docs/1.7.0/generated/torch.nn.Module.html#torch.nn.Module](https://pytorch.org/docs/1.7.0/generated/torch.nn.Module.html#torch.nn.Module)
+
 [2] [https://blog.csdn.net/qq_27825451/article/details/90705328?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-90705328-blog-109994420.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-90705328-blog-109994420.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=1](https://blog.csdn.net/qq_27825451/article/details/90705328?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-90705328-blog-109994420.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-90705328-blog-109994420.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=1)
