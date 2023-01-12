@@ -67,4 +67,5 @@ model.add_module("relu2", nn.ReLU())
 
 # Reference
 [1] [https://pytorch.org/docs/1.7.0/generated/torch.nn.Sequential.html?highlight=sequential#torch.nn.Sequential](https://pytorch.org/docs/1.7.0/generated/torch.nn.Sequential.html?highlight=sequential#torch.nn.Sequential)
+
 [2] [https://blog.csdn.net/qq_27825451/article/details/90550890](https://blog.csdn.net/qq_27825451/article/details/90550890)
