@@ -1,1 +1,37 @@
-# Torch Satellite Classic NN Models
+# Torch Satellite Classic NN Models [ :link: ](https://pytorch.org/vision/stable/models.html)
+
+- Classification
+    - AlexNet
+    - ConvNeXt
+    - DenseNet
+    - EfficientNet
+    - EfficientNetV2
+    - GoogLeNet
+    - Inception V3
+    - MaxVit
+    - MNASNet
+    - MobileNet V2
+    - MobileNet V3
+    - RegNet
+    - ResNet
+    - ResNeXt
+    - ShuffleNet V2
+    - SqueezeNet
+    - SwinTransformer
+    - VGG
+    - VisionTransformer
+    - Wide ResNet
+- Semantic Segmentation
+    - DeepLabV3
+    - FCN
+    - LRASPP
+- Object Detection
+	- Faster R-CNN
+	- FCOS
+	- RetinaNet
+	- SSD
+	- SSDlite
+- Video Classification
+	- Video MViT
+	- Video ResNet
+	- Video S3D
