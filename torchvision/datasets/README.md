@@ -1,1 +1,61 @@
 # Torch Satellite Datasets
+
+- Image Classification
+    - - FakeData
+    - *OCR
+        - MNIST
+        - EMNIST
+        - KMNIST (Kuzushiji-MNIST)
+        - QMNIST
+        - FashionMNIST
+        - Omniglot
+        - SEMEION
+        - SVHN
+    - *Facial
+        - CelebA (Large-scale CelebFaces Attributes)
+        - FER2013 (Facial Expression Recognition)
+        - LFWPeople (Labeled Faces in the Wild)
+    - *Geographical
+        - EuroSAT
+    - *Image 2 Sentence
+        - Flickr8k
+        - Flickr30k
+        - SBU
+    - *Vehicles
+        - GTSRB (German Traffic Sign Recognition Benchmark)
+        - StanfordCars
+    - *Others
+        - Caltech101
+        - Caltech256
+        - CIFAR10
+        - CIFAR100
+        - Country211 (The Country211 Data Set)
+        - DTD (Describable Textures Dataset)
+        - FGVCAircraft
+        - Flowers102
+        - Food101
+        - INaturalist
+        - ImageNet
+        - LSUN (large-scale image understanding)
+        - OxfordIIITPet
+        - Places365
+        - PCAM
+        - RenderedSST2
+        - STL10
+        - SUN397
+        - USPS
+
+- Image Detection or Segmentation
+    - CocoDetection
+    - CelebA
+    - Cityscapes
+    - GTSRB (German Traffic Sign Recognition Benchmark)
+    - Kitti
+    - OxfordIIITPet
+    - SBDataset (Semantic Boundaries Dataset)
+    - VOCSegmentation
+    - VOCDetection
+    - WIDERFace
+
+- Image Captioning
+    - CocoCaptions
